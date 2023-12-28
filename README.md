@@ -15,10 +15,10 @@ Hey there! 👋, I am a passionate and creative individual on a journey to make 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DevHumbleChris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align="center">
-  <img src="https://api.githubtrends.io/user/svg/DevHumbleChris/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=bright_lights" height="220" alt="streak graph"  />
-     <img src="https://api.githubtrends.io/user/svg/DevHumbleChris/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights" height="220" alt="streak graph"  />
-</div>
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ### ✍️ Random Dev Quote
 
