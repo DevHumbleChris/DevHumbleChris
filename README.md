@@ -13,7 +13,7 @@ Hey there! 👋, I am a passionate and creative individual on a journey to make 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevHumbleChris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://github-readme-streak-stats-rouge-seven.vercel.app?user=DevHumbleChris&theme=dark" height="220" alt="streak graph"  />
 </div>
 
 <picture>
