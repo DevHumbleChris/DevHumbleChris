@@ -14,10 +14,6 @@ Hey there! 👋, I am a passionate and creative individual on a journey to make 
 
 # 📊 GitHub Stats
 
-<div align="center">
-    <img src="https://github-readme-streak-stats-rouge-seven.vercel.app?user=DevHumbleChris&theme=dark" height="220" alt="streak graph"  />
-</div>
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
